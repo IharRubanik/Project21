@@ -1,0 +1,34 @@
+.block1 {
+  box-sizing: border-box;
+  width: 300px;
+  height: 300px;
+  background-color: blueviolet;
+  margin-top: 100px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.block2 {
+  width: 300px;
+  height: 300px;
+  background-color: rgb(174, 194, 26);
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  color: rgb(169, 47, 47);
+  font-size: 44px;
+}
+.images{
+    width: 200px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: 50px;
+}
